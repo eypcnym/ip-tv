@@ -23,3 +23,15 @@ https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8?e=1641461627&st=dzrgEKsotZ
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1641453936&st=U7s9zZnuS40Cr1SV_ZzP0w
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Kral TV HD'SİZ
 https://mn-nl.mncdn.com/dogusdyg_kraltv/dogusdyg_kraltv.smil/chunklist_b1296000.m3u8?st=OJEy7rklZySp1WNou3iYsA&e=1641497639
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN 1
+http://5.biliranvarmi.cloud/fatih1/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN 2
+http://v2.biliranvarmi.cloud/beinsport2/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN 3
+http://v2.biliranvarmi.cloud/liqtv3/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN 4
+http://5.biliranvarmi.cloud/beinsport4/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MAX
+http://v2.biliranvarmi.cloud/max1/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MAX  2
+http://v2.biliranvarmi.cloud/max2/index.m3u8
