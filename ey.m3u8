@@ -9,6 +9,8 @@ https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8?checkedby:iptvcat.com
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",KANAL D HD
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",KANAL D YEDEK HD
+https://istanbul.tvizlehd.com/kanald.m3u8?tkn=WU7YMrLHCL-dvUdBN3ykWQ&tms=1641427754&hst=www.canlitvizle.life
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",STAR TV HD
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?sid=417yk1a6qv85&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",MAVİ KARADENİZ  HD
