@@ -16,24 +16,11 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?sid=417yk1a6qv85&app=a20ac41e
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",MAVİ KARADENİZ  HD
 https://waw3.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8 HD
-https://izmir.tvizlehd.com/tv8.m3u8?tkn=C-4MCeuyMChCdVqUxqZOSQ&tms=1641417011&hst=www.canlitv.dev
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8 YEDEK HD
-https://ankara.tvizlehd.com/tv8.m3u8?tkn=hLM68u0GhN1SUTf1jUyikQ&tms=1641425754&hst=www.canlitv.today
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8 YEDEK 2 HD
-https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8?e=1641461627&st=dzrgEKsotZU-i-5zOa08eA
+https://ankara.tvizlehd.com/tv8.m3u8?tkn=TerMeVri_fp3lJw9OFAh7A&tms=1642206657&hst=www.canlitvizle.life
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8 HD 2
+https://ecanlitv2.etvserver.com:8081/tv8.m3u8?tkn=35HxSGyO2W17PeCVEjYpqA&tms=1642199555
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",FOX TV HD
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1641453936&st=U7s9zZnuS40Cr1SV_ZzP0w
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p-1642192680000.ts?e=1642243027&st=Z_r_AnU45y5-U9OViO9Enw
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Kral TV HD'SİZ
 https://mn-nl.mncdn.com/dogusdyg_kraltv/dogusdyg_kraltv.smil/chunklist_b1296000.m3u8?st=OJEy7rklZySp1WNou3iYsA&e=1641497639
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN 1
-https://video.twimg.com/ext_tw_video/1362496186482126852/pu/pl/640x360/wPAkn1M0uPz_Dt14.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN 2
-http://v2.biliranvarmi.cloud/beinsport2/index.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN 3
-http://v2.biliranvarmi.cloud/liqtv3/index.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN 4
-http://5.biliranvarmi.cloud/beinsport4/index.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MAX
-http://v2.biliranvarmi.cloud/max1/index.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MAX  2
-http://v2.biliranvarmi.cloud/max2/index.m3u8
+
